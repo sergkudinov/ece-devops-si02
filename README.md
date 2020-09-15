@@ -6,4 +6,5 @@ Some content
 
 - item 1
 - item 2
+- item 3
 - another item 4
